@@ -29,7 +29,6 @@ Após sua execução, é possível ver que uma instância foi criada na AWS, com
 Por último, ao entrar no link da instância, uma página web se abre com a mensagem local-host, o que garante que o processo de realizar uma pipeline automatizada foi executado com sucesso.
 
 <img width="80%" src="./assets/hello-word.png"/>
-</br>
 
 ## Conslusão 
 
